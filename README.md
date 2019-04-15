@@ -11,13 +11,18 @@ XMR-Stak is a universal Stratum pool miner. This miner supports CPUs, AMD and NV
 Pool address:
 
 pool.securuscoin.org:3333 low PC
+
 pool.securuscoin.org:5555 middle PC
+
 pool.securuscoin.org:7777 high end PC
 
 Your Securus Wallet 
 Password x or empty
 
 Rig identifier empty
+
 TSL/SSL   N
+
 nicehash y/ny
+
 multiple pool n
